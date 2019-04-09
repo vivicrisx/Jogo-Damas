@@ -6,7 +6,7 @@
  * @author Alan Moraes &lt;alan@ci.ufpb.br&gt;
  * @author Leonardo Villeth &lt;lvilleth@cc.ci.ufpb.br&gt;
  */
-public class Casa {
+public class Casa { //pra casa agora eu vou
 
     private int x;
     private int y;
